@@ -1,4 +1,4 @@
-package guru.springframework.bootstrap;
+package guru.springframework.sfgpetclinic.bootstrap;
 
 import guru.springframework.sfgpetclinic.model.Owner;
 import guru.springframework.sfgpetclinic.model.Vet;
